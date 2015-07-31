@@ -1,0 +1,1 @@
+$redis = Redis.new # configure your redis server here

@@ -1,0 +1,15 @@
+== README
+
+Requirement
+  Ruby 1.9.3
+  Rails 4.1.0
+  Sqlite3 (optioal)
+
+Steps to start application
+1 bundle install
+2 Start sidekig
+  - bundle exec sidekiq
+3 Start Redis
+  - redis-server
+4 Start rails app
+  - rails s
